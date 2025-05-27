@@ -1,4 +1,4 @@
-// 헤더 선언
+﻿// 헤더 선언
 #include <fstream>
 
 #include "MemberCollection.h"

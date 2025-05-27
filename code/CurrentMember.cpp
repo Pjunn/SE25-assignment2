@@ -1,4 +1,4 @@
-#include "CurrentMember.h"
+﻿#include "CurrentMember.h"
 
 /*
     함수 이름 : CurrentMember::setCurrentMember
